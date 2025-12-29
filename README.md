@@ -6,7 +6,7 @@
 <img alt="Ryuchan Logo" src="https://picbed.xiaozhangya.xin/blog/logo.png" width="280px">
 </div>
 
-[![license](https://badgen.net/github/license/xz131714/RyuChan)](https://github.com/xz131714/RyuChan/blob/main/LICENSE)&nbsp;&nbsp;&nbsp;[![release](https://badgen.net/github/release/xz131714/RyuChan)](https://github.com/xz131714/RyuChan/releases)
+[![license](https://badgen.net/github/license/kobaridev/RyuChan)](https://github.com/kobaridev/RyuChan/blob/main/LICENSE)&nbsp;&nbsp;&nbsp;[![release](https://badgen.net/github/release/kobaridev/RyuChan)](https://github.com/kobaridev/RyuChan/releases)
 
 [**🖥️ Ryuchan Demo**](https://demo.131714.xyz)
 
@@ -54,7 +54,7 @@ npm i -g pnpm
 2. 克隆项目
 
 ```sh
-git clone https://github.com/xz131714/RyuChan.git Ryuchan
+git clone https://github.com/kobaridev/RyuChan.git Ryuchan
 ```
 
 3. 进入项目文件夹
@@ -140,7 +140,7 @@ menu:
 
 ```yaml
 user:
-  name: xz131714 # 用户名称
+  name: kobaridev # 用户名称
   site: "https://example.com" # 用户网站
   avatar: /profile.png # 用户头像
 ```
@@ -152,7 +152,7 @@ user:
 ```yaml
 sidebar:
   social:
-    - href: "https://github.com/xz131714" # 链接地址
+    - href: "https://github.com/kobaridev" # 链接地址
       ariaLabel: Github # 无障碍标签
       title: Github # 鼠标悬停时的提示
       svg: "ri:github-line" # 图标代码

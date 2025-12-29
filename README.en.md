@@ -6,7 +6,7 @@ A clean, elegant, and fast static blog template! 🚀 Built with Astro
 <img alt="Ryuchan Logo" src="https://picbed.xiaozhangya.xin/blog/logo.png" width="280px">
 </div>
 
-[![license](https://badgen.net/github/license/xz131714/RyuChan)](https://github.com/xz131714/RyuChan/blob/main/LICENSE)&nbsp;&nbsp;&nbsp;[![release](https://badgen.net/github/release/xz131714/RyuChan)](https://github.com/xz131714/RyuChan/releases)
+[![license](https://badgen.net/github/license/kobaridev/RyuChan)](https://github.com/kobaridev/RyuChan/blob/main/LICENSE)&nbsp;&nbsp;&nbsp;[![release](https://badgen.net/github/release/kobaridev/RyuChan)](https://github.com/kobaridev/RyuChan/releases)
 
 [**🖥️ Ryuchan Demo**](https://demo.131714.xyz)
 
@@ -54,7 +54,7 @@ npm i -g pnpm
 2. Clone the project
 
 ```sh
-git clone https://github.com/xz131714/RyuChan.git Ryuchan
+git clone https://github.com/kobaridev/RyuChan.git Ryuchan
 ```
 
 3. Enter the project folder
@@ -140,7 +140,7 @@ You can configure sub-menu items by adding `subItems` with the same format as ma
 
 ```yaml
 user:
-  name: xz131714 # Username
+  name: kobaridev # Username
   site: "https://example.com" # User website
   avatar: /profile.png # User avatar
 ```

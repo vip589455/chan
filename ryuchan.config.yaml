@@ -133,7 +133,7 @@ user:
       #   ariaLabel: Support my work # 图标的可访问性标签
       #   title: Support my work # 图标的悬浮标题
       #   svg: "ri:cup-line"
-      - href: "https://github.com/xz131714"
+      - href: "https://github.com/kobaridev"
         ariaLabel: Github
         title: Github
         svg: "ri:github-line"
@@ -160,7 +160,7 @@ user:
       #   ariaLabel: Support my work # 图标的可访问性标签
       #   title: Support my work # 图标的悬浮标题
       #   svg: "ri:cup-line"
-      - href: "https://github.com/xz131714"
+      - href: "https://github.com/kobaridev"
         ariaLabel: Github
         title: Github
         svg: "ri:github-line"
@@ -182,7 +182,7 @@ comments:
   enable: true # 是否启用评论
   type: giscus # giscus/waline/none
   giscus:
-    repo: "xz131714/gsc"
+    repo: "kobaridev/gsc"
     repoId: "R_kgDOPTM-mA"
     category: "General"
     categoryId: "DIC_kwDOPTM-mM4CtcFq"

@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # --- Configuration ---
-UPSTREAM_REPO="https://github.com/xz131714/RyuChan.git"
+UPSTREAM_REPO="https://github.com/kobaridev/RyuChan.git"
 TEMP_DIR="ryuchan_temp_update"
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 I18N_DIR="$SCRIPT_DIR/src/i18n"
